@@ -1,6 +1,6 @@
 //Wireless Connector
 mods.gregtech.assembler.recipeBuilder()
-  .inputs(metaitem('plateTitanium')*4, metaitem('field.generator.iv'), ore('circuitZpm')*2, item('appliedenergistics2:material', 24)*4, metaitem('wireless'))
+  .inputs(metaitem('plateTitanium')*4, metaitem('field.generator.ev'), ore('circuitIv')*8, item('appliedenergistics2:material', 24)*4, metaitem('wireless'))
   .outputs(item('ae2stuff:wireless')*2)
   .EUt(510)
   .duration(800)
